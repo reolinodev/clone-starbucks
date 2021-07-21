@@ -5,7 +5,9 @@
 
 ## 사용한 라이브러리
 - [Lodash](https://lodash.com/)
+    - [사용예제](https://www.notion.so/Lodash-719e13eda365458b8a76c6174365dace)
 - [Gsap](https://greensock.com/gsap/)
+    - [사용예제](https://www.notion.so/Gsap-b4c2598a98154c38bd33eb7085dfb955)
 - [Swiper](https://swiperjs.com/)
 - [ScrollMagic](https://scrollmagic.io/)
 
