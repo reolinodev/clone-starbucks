@@ -1,20 +1,10 @@
 ## 목표
-스타벅스 사이트를 보면서 html, js, css를 학습해보자. 
-이번 브랜치는 메인화면, signin 화면까지 적용
+전체적인 프론트엔드 개발에 필요한 기술을 경험하고자 시작함
+<br/>
+스타벅스 사이트를 클론 코딩
 
+1. html, css, js로 화면을 구성
+2. vue 혹은 react로 적용 (둘다 할 예정임)
+3. bundler를 사용하고 typescript 사용
+4. 테스트 코드 사용
 
-## 사용한 라이브러리
-- [Lodash](https://lodash.com/)
-    - [사용예제](https://www.notion.so/Lodash-719e13eda365458b8a76c6174365dace)
-- [Gsap](https://greensock.com/gsap/)
-    - [사용예제](https://www.notion.so/Gsap-b4c2598a98154c38bd33eb7085dfb955)
-- [Swiper](https://swiperjs.com/)
-- [ScrollMagic](https://scrollmagic.io/)
-
-
-## 사용방법
-각 에디터로 index.html을 실행
-
-
-## 적용화면
-[적용한 사이트](https://cranky-pike-512f55.netlify.app/)
