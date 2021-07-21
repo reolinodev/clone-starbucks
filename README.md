@@ -1,7 +1,20 @@
-## 스타벅스 사이트 클론 코딩 
-스타벅스 사이트를 클론 코딩하면서 프론트엔드 개발의 기본을 학습하고자 합니다.
+## 목표
+스타벅스 사이트를 보면서 html, js, css를 학습해보자. 
+이번 브랜치는 메인화면, signin 화면까지 적용
 
-1. html, js, css를 사용해 퍼블리싱을 합니다. [html 브랜치](https://github.com/reolinodev/clone-starbucks/tree/01.html)
-1. parcel 혹은 webpack을 적용합니다.
-1. react로 front단을 작성합니다.
-1. vue로 front단을 작성합니다.
+
+## 사용한 라이브러리
+- [Lodash](https://lodash.com/)
+    - [사용예제](https://www.notion.so/Lodash-719e13eda365458b8a76c6174365dace)
+- [Gsap](https://greensock.com/gsap/)
+    - [사용예제](https://www.notion.so/Gsap-b4c2598a98154c38bd33eb7085dfb955)
+- [Swiper](https://swiperjs.com/)
+- [ScrollMagic](https://scrollmagic.io/)
+
+
+## 사용방법
+각 에디터로 index.html을 실행
+
+
+## 적용화면
+[적용한 사이트](https://cranky-pike-512f55.netlify.app/)

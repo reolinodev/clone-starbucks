@@ -1,0 +1,26 @@
+{
+  "name": "clone-starbucks",
+  "version": "1.0.0",
+  "description": "스타벅스 사이트를 보면서 html, js, css를 학습해보자. \r 이번 브랜치는 메인화면, signin 화면까지 적용",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reolinodev/clone-starbucks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reolinodev/clone-starbucks/issues"
+  },
+  "homepage": "https://github.com/reolinodev/clone-starbucks#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
