@@ -17,4 +17,4 @@
 
 
 ## 적용화면
-[적용한 사이트](https://cranky-pike-512f55.netlify.app/)
+[적용한 사이트](https://starbuks-clone.netlify.app/)
